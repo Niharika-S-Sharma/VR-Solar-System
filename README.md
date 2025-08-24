@@ -30,8 +30,6 @@ Just open the index.html file in any modern browser (Chrome, Firefox, or Edge).
 
 # Python 3
 python -m http.server
-
-
 Then visit http://localhost:8000
 .
 
