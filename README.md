@@ -53,43 +53,6 @@ JavaScript + HTML
 
 Custom planet textures
 
-📸 Preview
-
-git clone https://github.com/Niharika-S-Sharma/VR-Solar-System.git
-cd VR-Solar-System
-2. Open in browser
-
-Just open the index.html file in any modern browser (Chrome, Firefox, or Edge).
-
-⚠️ If textures don’t load due to browser security restrictions, run a local server:
-
-# Python 3
-python -m http.server
-
-
-Then visit http://localhost:8000
-.
-
-📂 Project Structure
-solar-system-aframe/
-├── index.html              # Main A-Frame scene
-├── planet_textures/        # Planet and comet textures
-│   ├── sun.jpg
-│   ├── earth.jpeg
-│   ├── saturn.jpeg
-│   ├── saturn_rings.png
-│   └── ...
-└── README.md
-
-🛠️ Built With
-
-A-Frame
- — WebVR / WebXR framework
-
-JavaScript + HTML
-
-Custom planet textures
-
 ## 📸 Preview
 
 ![Solar System Preview](https://github.com/Niharika-S-Sharma/VR-Solar-System/blob/main/assets/preview.png?raw=true)
