@@ -19,7 +19,7 @@ Explore the planets, Saturn’s iconic rings, and a comet with a glowing arcade-
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-```bash
+bash
 git clone https://github.com/Niharika-S-Sharma/VR-Solar-System.git
 cd VR-Solar-System
 2. Open in browser
