@@ -94,6 +94,5 @@ Custom planet textures
 
 📸 Preview
 
-## 📸 Preview
-
 ![Solar System Preview](https://github.com/Niharika-S-Sharma/VR-Solar-System/blob/main/assets/preview.png?raw=true)
+
